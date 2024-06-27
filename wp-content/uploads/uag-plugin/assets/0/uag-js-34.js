@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(){ jQuery(document).ready(function () {
-				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-1815d4b0");
+				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-e651c6b8");
 				if ( scope.length ) { 
 					scope.css("visibility", "visible");
 					let getSlickCarousel = scope.find(".uagb-slick-carousel");
