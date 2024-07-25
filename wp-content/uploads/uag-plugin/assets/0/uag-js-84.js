@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(){ jQuery(document).ready(function () {
-				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-5237c95b");
+				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-976783b4");
 				if ( scope.length ) { 
 					scope.css("visibility", "visible");
 					let getSlickCarousel = scope.find(".uagb-slick-carousel");
@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function(){ jQuery(document).ready
 					}
 				}
 			});jQuery(document).ready(function () {
-				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-f1e75774");
+				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-12fa4c15");
 				if ( scope.length ) { 
 					scope.css("visibility", "visible");
 					let getSlickCarousel = scope.find(".uagb-slick-carousel");
@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function(){ jQuery(document).ready
 					}
 				}
 			});jQuery(document).ready(function () {
-				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-35aedf65");
+				let scope = jQuery(".wp-block-uagb-image-gallery.uagb-block-1891ad7a");
 				if ( scope.length ) { 
 					scope.css("visibility", "visible");
 					let getSlickCarousel = scope.find(".uagb-slick-carousel");
